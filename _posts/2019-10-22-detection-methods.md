@@ -1,5 +1,5 @@
 ---
-date: 2019-10-22 00:00:00
+date: 2019-10-22 22:00:00
 title: Detection Methods
 categories:
   - AV
