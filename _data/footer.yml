@@ -1,16 +1,8 @@
-- name:
-  link: https://facebook.com/cloudcannon
-  social_icon: Facebook
-  new_window: true
-- name:
-  link: https://twitter.com/cloudcannon
+- name: Follow me on Twitter
+  link: 'https://twitter.com/HeavyMetalAdmin'
   social_icon: Twitter
   new_window: true
-- name:
-  link: https://youtube.com/c/cloudcannon
-  social_icon: YouTube
-  new_window: true
-- name: 
-  link: https://instagram.com/
-  social_icon: Instagram
+- name: Connect on LinkedIn
+  link: 'https://www.linkedin.com/in/mpadderatz/'
+  social_icon: LinkedIn
   new_window: true
