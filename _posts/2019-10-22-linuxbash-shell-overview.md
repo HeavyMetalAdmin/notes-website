@@ -9,8 +9,6 @@ description: Overview of Bash / Shell Commands.
 type: Document
 ---
 
-# Linux(bash) Shell Overview
-
 ### Linux Shell commands & scripting Overview\\Outline
 
 #### Shell commands:
