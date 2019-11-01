@@ -67,4 +67,7 @@ type: Document
 
 * Transforms any filetype into a list of harmless-looking strings
 * Lets you hide the file in plain sign, transfer the file without triggering alerts
-* Transfer the cloaked file however you choose, then decloak the exfiltrated file back into it's orginal form
+* Transfer the cloaked file however you choose, then decloak the exfiltrated file back into it's original form
+* Transmits via different ciphers that you can set or select preset/
+* Receiving
+  * Capture the data any way you want
