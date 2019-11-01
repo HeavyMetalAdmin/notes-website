@@ -71,3 +71,7 @@ type: Document
 * Transmits via different ciphers that you can set or select preset/
 * Receiving
   * Capture the data any way you want
+
+### Usage
+
+* Must be run with python2.7 command
