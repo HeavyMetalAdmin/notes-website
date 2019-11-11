@@ -101,7 +101,7 @@ type: Document
     * 15:25:20 GMT;
   * Path
     * path=/example/path;
-    * &nbsp;
+      * Will only send cookies to this path
   * The domain
     * domain=.example.site;
     * When a cookie has the domain attribute set to:
@@ -111,5 +111,20 @@ type: Document
   * Optional flags:
     * HTTP only
       * HttpOnly;
+      * Prevents JS, Flash, and Java from reading the cookie via XSS
     * Secure flag
       * Secure
+      * Only Sends via HTTPS
+
+## Sessions
+
+* Mechanism that lets sites store variables specific for a given visit, server side
+* Identified by a session id
+* Installed by sessions cookies
+* Session Cookies
+  * Contains a single parameter value pair
+    * Session:
+    * PHPSESSID:
+    * JSESSIONID:
+  * Can be installed after a browser performs a specific activity
+  * Session IDs can also be transmitted via GET request
