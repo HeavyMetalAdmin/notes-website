@@ -128,3 +128,8 @@ type: Document
     * JSESSIONID:
   * Can be installed after a browser performs a specific activity
   * Session IDs can also be transmitted via GET request
+
+## Same Origin Policy
+
+* Prevents JS from getting or setting properties on a resource coming from a different origin.
+* &nbsp;
